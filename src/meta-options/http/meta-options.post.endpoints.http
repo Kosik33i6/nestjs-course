@@ -1,0 +1,8 @@
+POST localhost:3000/meta-options
+Content-Type: application/json
+
+{
+  "metaValue": "{\"sidebarEnabled\": true, \"menuHamburger\": false}"
+}
+
+

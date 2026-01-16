@@ -1,0 +1,6 @@
+PATCH localhost:3000/meta-options/2
+Content-Type: application/json
+
+{
+  "metaValue": "[{\"id\":\"b9f0b8be-2827-4ad7-a5da-aa1d7d4fbfed\",\"type\":\"coffee\"}]"
+}
